@@ -10,7 +10,7 @@ Time spent: **0.5** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 ## Video Walkthrough 
 
@@ -27,7 +27,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [2018] [Askaht Goel]
+    Copyright [2018] [Akshat Goel]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
